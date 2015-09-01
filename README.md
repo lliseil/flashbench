@@ -94,7 +94,7 @@ $ sudo ./flashbench -O --erasesize=$[4 * 1024 * 1024] \
 1MiB    3.24M/s
 512KiB  1.76M/s
 256KiB  912K/s`
-
+```
 In this case, trying 2 open AUs shows fast accesses for small
 *block sizes*, but trying 3 open AUs is much slower, and degrades
 further at smaller sizes.
