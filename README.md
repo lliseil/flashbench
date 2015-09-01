@@ -1,4 +1,4 @@
-# flashbench -- identify characteristics of flash media
+# flashbench: identify characteristics of flash media
 
 This is the tool used to identify the properties of
 SD cards and other flash memory media for the
@@ -110,7 +110,7 @@ can in random mode.
 
 [1]: https://wiki.linaro.org/WorkingGroups/KernelConsolidation/Projects/FlashCardSurvey
 [2]: git clone git://git.linaro.org/people/arnd/flashbench.git
-[3]: [Optimizing Linux with cheap flash drives](https://lwn.net/Articles/428584/)
+[3]: https://lwn.net/Articles/428584/ "Optimizing Linux with cheap flash drives"
 
 Feel free to reach the author by email for any questions
 about the latest version, Arnd Bergmann <arnd.bergmann@linaro.org>,
