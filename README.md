@@ -1,9 +1,9 @@
 # flashbench: identify characteristics of flash media
 
 This is the tool used to identify the properties of
-SD cards and other flash memory media for the
-[Linaro flash memory survey][1], eg its *erase block* or
-*segments* for optimal partition alignment. The latest
+SD cards and other flash memory media like USB sticks
+for the [Linaro flash memory survey][1], eg its *erase block*
+or *segments* for optimal partition alignment. The latest
 version should be available at [2]. Please also check out
 the article on [lwn.net][3].
 
@@ -108,7 +108,7 @@ can in random mode.
 
 ## References
 
-[1]: https://wiki.linaro.org/WorkingGroups/KernelConsolidation/Projects/FlashCardSurvey
+[1]: https://wiki.linaro.org/WorkingGroups/KernelArchived/Projects/FlashCardSurvey
 [2]: git clone git://git.linaro.org/people/arnd/flashbench.git
 [3]: https://lwn.net/Articles/428584/ "Optimizing Linux with cheap flash drives"
 
